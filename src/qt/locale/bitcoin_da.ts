@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About bankcoin</source>
-        <translation>Om bankcoin</translation>
+        <source>About bank</source>
+        <translation>Om bank</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;bankcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;bankcoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;bank&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;bank&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 - 2016 The bankcoin developers</source>
+Copyright © 2012-2014 The bank developers
+Copyright © 2014 - 2016 The bank developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 - 2016 The bankcoin developers</translation>
+Copyright © 2012-2014 The bank developers
+Copyright © 2014 - 2016 The bank developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your bankcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dette er dine bankcoin adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
+        <source>These are your bank addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dette er dine bank adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a bankcoin address</source>
-        <translation>Signerer en meddelelse for at bevise du ejer en bankcoin adresse</translation>
+        <source>Sign a message to prove you own a bank address</source>
+        <translation>Signerer en meddelelse for at bevise du ejer en bank adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified bankcoin address</source>
-        <translation>Bekræft en meddelelse for at sikre, den blev underskrevet med en specificeret bankcoin adresse</translation>
+        <source>Verify a message to ensure it was signed with a specified bank address</source>
+        <translation>Bekræft en meddelelse for at sikre, den blev underskrevet med en specificeret bank adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>bankcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>bankcoin lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
+        <source>bank will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>bank lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about bankcoin</source>
-        <translation>Vis oplysninger om bankcoin</translation>
+        <source>Show information about bank</source>
+        <translation>Vis oplysninger om bank</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a bankcoin address</source>
-        <translation>Send mønter til en bankcoin adresse</translation>
+        <source>Send coins to a bank address</source>
+        <translation>Send mønter til en bank adresse</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for bankcoin</source>
-        <translation>Ændre indstillingsmuligheder for bankcoin</translation>
+        <source>Modify configuration options for bank</source>
+        <translation>Ændre indstillingsmuligheder for bank</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-202"/>
-        <source>bankcoin</source>
-        <translation>bankcoin</translation>
+        <source>bank</source>
+        <translation>bank</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About bankcoin</source>
-        <translation>&amp;Om bankcoin</translation>
+        <source>&amp;About bank</source>
+        <translation>&amp;Om bank</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>bankcoin client</source>
-        <translation>bankcoin Klient</translation>
+        <source>bank client</source>
+        <translation>bank Klient</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to bankcoin network</source>
-        <translation><numerusform>%n aktiv forbindelse til bankcoin netværk</numerusform><numerusform>%n aktive forbindelser til bankcoin netværk</numerusform></translation>
+        <source>%n active connection(s) to bank network</source>
+        <translation><numerusform>%n aktiv forbindelse til bank netværk</numerusform><numerusform>%n aktive forbindelser til bank netværk</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-312"/>
-        <source>About bankcoin card</source>
-        <translation>Om bankcoin kort</translation>
+        <source>About bank card</source>
+        <translation>Om bank kort</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about bankcoin card</source>
-        <translation>Vis oplysninger om bankcoin kort</translation>
+        <source>Show information about bank card</source>
+        <translation>Vis oplysninger om bank kort</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -669,8 +669,8 @@ Adresse: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid bankcoin address or malformed URI parameters.</source>
-        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig bankcoin adresse eller misdannede URI parametre.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid bank address or malformed URI parameters.</source>
+        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig bank adresse eller misdannede URI parametre.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,7 +729,7 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. bankcoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. bank can no longer continue safely and will quit.</source>
         <translation>Der opstod en fejl under forsøg på at gemme dataene i tegnebogen til den nye placering.</translation>
     </message>
 </context>
@@ -1063,8 +1063,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid bankcoin address.</source>
-        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig bankcoin adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid bank address.</source>
+        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig bank adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1082,8 +1082,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>bankcoin-Qt</source>
-        <translation>bankcoin-Qt</translation>
+        <source>bank-Qt</source>
+        <translation>bank-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1155,13 +1155,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start bankcoin after logging in to the system.</source>
-        <translation>Automatisk start bankcoin efter at have logget ind på systemet.</translation>
+        <source>Automatically start bank after logging in to the system.</source>
+        <translation>Automatisk start bank efter at have logget ind på systemet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start bankcoin on system login</source>
-        <translation>&amp;Start bankcoin ved systems login</translation>
+        <source>&amp;Start bank on system login</source>
+        <translation>&amp;Start bank ved systems login</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1180,8 +1180,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the bankcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisk åbne bankcoin klient-port på routeren. Dette virker kun, når din router understøtter UPnP og er det er aktiveret.</translation>
+        <source>Automatically open the bank client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisk åbne bank klient-port på routeren. Dette virker kun, når din router understøtter UPnP og er det er aktiveret.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,8 +1190,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the bankcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Opret forbindelse til bankcoin netværk via en SOCKS proxy (fx ved tilslutning gennem Tor).</translation>
+        <source>Connect to the bank network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Opret forbindelse til bank netværk via en SOCKS proxy (fx ved tilslutning gennem Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1265,8 +1265,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting bankcoin.</source>
-        <translation>Sproget i brugergrænsefladen kan indstilles her. Denne indstilling vil træde i kraft efter genstart af bankcoin tegnebog.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting bank.</source>
+        <translation>Sproget i brugergrænsefladen kan indstilles her. Denne indstilling vil træde i kraft efter genstart af bank tegnebog.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1280,8 +1280,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show bankcoin addresses in the transaction list or not.</source>
-        <translation>Få vist bankcoin adresser på listen over transaktioner eller ej.</translation>
+        <source>Whether to show bank addresses in the transaction list or not.</source>
+        <translation>Få vist bank adresser på listen over transaktioner eller ej.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1327,8 +1327,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting bankcoin.</source>
-        <translation>Denne indstilling vil træde i kraft efter genstart af bankcoin.</translation>
+        <source>This setting will take effect after restarting bank.</source>
+        <translation>Denne indstilling vil træde i kraft efter genstart af bank.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1346,8 +1346,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the bankcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>De viste oplysninger kan være forældet. Din tegnebog synkroniserer automatisk med bankcoin netværket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the bank network after a connection is established, but this process has not completed yet.</source>
+        <translation>De viste oplysninger kan være forældet. Din tegnebog synkroniserer automatisk med bank netværket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1562,8 +1562,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the bankcoin-Qt help message to get a list with possible bankcoin command-line options.</source>
-        <translation>Vis bankcoin-Qt hjælpe besked for at få en liste med mulige bankcoin kommandolinjeparametre.</translation>
+        <source>Show the bank-Qt help message to get a list with possible bank command-line options.</source>
+        <translation>Vis bank-Qt hjælpe besked for at få en liste med mulige bank kommandolinjeparametre.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1582,13 +1582,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>bankcoin - Debug window</source>
-        <translation>bankcoin - Debug vindue</translation>
+        <source>bank - Debug window</source>
+        <translation>bank - Debug vindue</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>bankcoin Core</source>
-        <translation>bankcoin Kerne</translation>
+        <source>bank Core</source>
+        <translation>bank Kerne</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1597,8 +1597,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the bankcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åbn bankcoin debug logfilen fra den nuværende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
+        <source>Open the bank debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Åbn bank debug logfilen fra den nuværende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1607,8 +1607,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the bankcoin RPC console.</source>
-        <translation>Velkommen til bankcoin RPC-konsol.</translation>
+        <source>Welcome to the bank RPC console.</source>
+        <translation>Velkommen til bank RPC-konsol.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1766,8 +1766,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a bankcoin address (e.g. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Indtast en bankcoin-adresse (f.eks bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a bank address (e.g. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Indtast en bank-adresse (f.eks bankfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1866,8 +1866,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid bankcoin address</source>
-        <translation>ADVARSEL: Ugyldig bankcoin adresse</translation>
+        <source>WARNING: Invalid bank address</source>
+        <translation>ADVARSEL: Ugyldig bank adresse</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1910,8 +1910,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adressen til at sende betalingen til (f.eks bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adressen til at sende betalingen til (f.eks bankfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1940,8 +1940,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a bankcoin address (e.g. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Indtast en bankcoin-adresse (f.eks bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a bank address (e.g. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Indtast en bank-adresse (f.eks bankfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1964,8 +1964,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresse til at underskrive meddelelsen med (f.eks bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresse til at underskrive meddelelsen med (f.eks bankfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2001,8 +2001,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this bankcoin address</source>
-        <translation>Underskriv brevet for at bevise du ejer denne bankcoin adresse</translation>
+        <source>Sign the message to prove you own this bank address</source>
+        <translation>Underskriv brevet for at bevise du ejer denne bank adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2028,13 +2028,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adressen meddelelse blev underskrevet med (f.eks bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adressen meddelelse blev underskrevet med (f.eks bankfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified bankcoin address</source>
-        <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne bankcoin adresse</translation>
+        <source>Verify the message to ensure it was signed with the specified bank address</source>
+        <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne bank adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2044,8 +2044,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a bankcoin address (e.g. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Indtast en bankcoin-adresse (f.eks bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a bank address (e.g. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Indtast en bank-adresse (f.eks bankfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2054,8 +2054,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter bankcoin signature</source>
-        <translation>Indtast bankcoin underskrift</translation>
+        <source>Enter bank signature</source>
+        <translation>Indtast bank underskrift</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2625,8 +2625,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>bankcoin version</source>
-        <translation>bankcoin version</translation>
+        <source>bank version</source>
+        <translation>bank version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2635,8 +2635,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or bankcoind</source>
-        <translation>Send kommando til-server eller bankcoind</translation>
+        <source>Send command to -server or bankd</source>
+        <translation>Send kommando til-server eller bankd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2655,13 +2655,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: bankcoin.conf)</source>
-        <translation>Angiv konfigurationsfil (default: bankcoin.conf)</translation>
+        <source>Specify configuration file (default: bank.conf)</source>
+        <translation>Angiv konfigurationsfil (default: bank.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: bankcoind.pid)</source>
-        <translation>Angiv pid fil (standard: bankcoind.pid)</translation>
+        <source>Specify pid file (default: bankd.pid)</source>
+        <translation>Angiv pid fil (standard: bankd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2810,8 +2810,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong bankcoin will not work properly.</source>
-        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslæt er korrekt! Hvis dit ur er forkert vil bankcoin ikke fungere korrekt.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong bank will not work properly.</source>
+        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslæt er korrekt! Hvis dit ur er forkert vil bank ikke fungere korrekt.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3000,24 +3000,24 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=bankcoinrpc
+rpcuser=bankrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;bankcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;bank Alert&quot; admin@foo.com
 </source>
         <translation>% s, skal du indstille et rpcpassword i konfigurationsfilen: 
 % s 
 Det anbefales at bruge følgende tilfældig adgangskode: 
-rpcuser = bankcoinrpc  
+rpcuser = bankrpc  
 rpcpassword =% s  
 (du behøver ikke at huske denne adgangskode)  
 Brugernavn og adgangskode må ikke være den samme.  
 Hvis filen ikke findes, skal du oprette den med filtilladelser ejer-læsbar-kun. 
 Det kan også anbefales at sætte alertnotify så du får besked om problemer; 
-for eksempel: alertnotify = echo%% s | mail-s &quot;bankcoin Alert&quot; admin@foo.com 
+for eksempel: alertnotify = echo%% s | mail-s &quot;bank Alert&quot; admin@foo.com 
 </translation>
     </message>
     <message>
@@ -3142,13 +3142,13 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;bankcoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  bankcoin is probably already running.</source>
-        <translation>Kan ikke få en lås på data mappe% s. bankcoin kører sikkert allerede.</translation>
+        <source>Cannot obtain a lock on data directory %s.  bank is probably already running.</source>
+        <translation>Kan ikke få en lås på data mappe% s. bank kører sikkert allerede.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>bankcoin</source>
-        <translation>bankcoin</translation>
+        <source>bank</source>
+        <translation>bank</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3182,13 +3182,13 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;bankcoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of bankcoin</source>
-        <translation>Fejl ved indlæsning af wallet.dat: Wallet kræver en nyere version af bankcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of bank</source>
+        <translation>Fejl ved indlæsning af wallet.dat: Wallet kræver en nyere version af bank</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart bankcoin to complete</source>
-        <translation>Det er nødvendig for wallet at blive omskrevet: Genstart bankcoin for fuldføre</translation>
+        <source>Wallet needed to be rewritten: restart bank to complete</source>
+        <translation>Det er nødvendig for wallet at blive omskrevet: Genstart bank for fuldføre</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3257,8 +3257,8 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;bankcoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. bankcoin is probably already running.</source>
-        <translation>Kunne ikke binde sig til% s på denne computer. bankcoin kører sikkert allerede.</translation>
+        <source>Unable to bind to %s on this computer. bank is probably already running.</source>
+        <translation>Kunne ikke binde sig til% s på denne computer. bank kører sikkert allerede.</translation>
     </message>
     <message>
         <location line="-97"/>

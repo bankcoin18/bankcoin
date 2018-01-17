@@ -1,0 +1,68 @@
+#!/bin/sh
+
+# PROVIDE: bank
+# REQUIRE: LOGIN
+# KEYWORD: shutdown
+
+#
+# Add the following lines to /etc/rc.conf.local or /etc/rc.conf
+# to enable this service:
+#
+# bank_enable (bool): Set to NO by default. Set this variable to YES if you want to enable bank service.
+# bank_config (path): Set to /usr/local/etc/bank.conf by default.
+# bank_user:  The user account bank daemon runs as. It uses 'root' user by default.
+# bank_group: The group account bank daemon runs as. It uses 'wheel' group by default.
+# bank_datadir (str): Default to "/var/db/bank". Base data directory.
+
+. /etc/rc.subr
+
+name=bank
+rcvar=bank_enable
+
+: ${bank_enable:=NO}
+: ${bank_config=/usr/local/etc/bank.conf}
+: ${bank_datadir=/var/db/bank}
+: ${bank_user="root"}
+: ${bank_group="wheel"}
+
+required_files=${bank_config}
+command=/usr/local/bin/bankd
+bank_chdir=${bank_datadir}
+pidfile="${bank_datadir}/bankd.pid"
+stop_cmd=bank_stop
+command_args="-conf=${bank_config} -datadir=${bank_datadir} -daemon -pid=${pidfile}"
+start_precmd="${name}_prestart"
+
+bank_create_datadir()
+{
+	echo "Creating data directory"
+	eval mkdir -p ${bank_datadir}
+	[ $? -eq 0 ] && chown -R ${bank_user}:${bank_group} ${bank_datadir}
+}
+
+bank_prestart()
+{
+	if [ ! -d "${bank_datadir}/." ]; then
+		bank_create_datadir || return 1
+	fi
+}
+
+bank_requirepidfile()
+{
+	if [ ! "0`check_pidfile ${pidfile} ${command}`" -gt 1 ]; then
+		echo "${name} not running? (check $pidfile)."
+		exit 1
+	fi
+}
+
+bank_stop()
+{
+    bank_requirepidfile
+
+	echo "Stopping ${name}."
+	eval ${command} -conf=${bank_config} -datadir=${bank_datadir} stop
+	wait_for_pids ${rc_pid}
+}
+
+load_rc_config $name
+run_rc_command "$1"

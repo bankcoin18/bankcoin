@@ -1,0 +1,11 @@
+[Unit]
+Description=bank daemon serivce
+After=network.target
+
+[Service]
+Type=simple
+User=bank
+ExecStart=/opt/bank/bankd
+
+[Install]
+WantedBy=multi-user.target

@@ -1,4 +1,4 @@
-bankcoin-qt: Qt5 GUI for bankcoin
+bank-qt: Qt5 GUI for bank
 ===============================
 
 Build instructions
@@ -24,9 +24,9 @@ then execute the following:
     qmake
     make
 
-Alternatively, install Qt Creator and open the `bankcoin-qt.pro` file.
+Alternatively, install Qt Creator and open the `bank-qt.pro` file.
 
-An executable named `bankcoin-qt` will be built.
+An executable named `bank-qt` will be built.
 
 
 Windows
@@ -43,8 +43,8 @@ Windows build instructions:
 - Open the .pro file in QT creator and build as normal (ctrl-B)
 
 .. _`QT Windows SDK`: http://qt.nokia.com/downloads/sdk-windows-cpp
-.. _`dependencies archive`: https://download.visucore.com/bankcoin/qtgui_deps_1.zip
-.. [#] PGP signature: https://download.visucore.com/bankcoin/qtgui_deps_1.zip.sig (signed with RSA key ID `610945D0`_)
+.. _`dependencies archive`: https://download.visucore.com/bank/qtgui_deps_1.zip
+.. [#] PGP signature: https://download.visucore.com/bank/qtgui_deps_1.zip.sig (signed with RSA key ID `610945D0`_)
 .. _`610945D0`: http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x610945D0
 
 
@@ -74,7 +74,7 @@ Build configuration options
 UPNnP port forwarding
 ---------------------
 
-To use UPnP for port forwarding behind a NAT router (recommended, as more connections overall allow for a faster and more stable bankcoin experience), pass the following argument to qmake:
+To use UPnP for port forwarding behind a NAT router (recommended, as more connections overall allow for a faster and more stable bank experience), pass the following argument to qmake:
 
 ::
 
@@ -122,9 +122,9 @@ flag to qmake to control this:
 Berkely DB version warning
 ==========================
 
-A warning for people using the *static binary* version of bankcoin on a Linux/UNIX-ish system (tl;dr: **Berkely DB databases are not forward compatible**).
+A warning for people using the *static binary* version of bank on a Linux/UNIX-ish system (tl;dr: **Berkely DB databases are not forward compatible**).
 
-The static binary version of bankcoin is linked against libdb 5.0 (see also `this Debian issue`_).
+The static binary version of bank is linked against libdb 5.0 (see also `this Debian issue`_).
 
 Now the nasty thing is that databases from 5.X are not compatible with 4.X.
 
@@ -139,7 +139,7 @@ Ubuntu 11.10 warning
 ====================
 
 Ubuntu 11.10 has a package called 'qt-at-spi' installed by default.  At the time of writing, having that package
-installed causes bankcoin-qt to crash intermittently.  The issue has been reported as `launchpad bug 857790`_, but
+installed causes bank-qt to crash intermittently.  The issue has been reported as `launchpad bug 857790`_, but
 isn't yet fixed.
 
 Until the bug is fixed, you can remove the qt-at-spi package to work around the problem, though this will presumably

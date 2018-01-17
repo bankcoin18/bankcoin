@@ -27,7 +27,7 @@ class CInv;
 class CRequestTracker;
 class CNode;
 
-static const int LAST_POW_BLOCK = 300000; //POW block reward:  30 BANK
+static const int LAST_POW_BLOCK = 400000; //POW block reward:  30 BANK
 
 static const unsigned int MAX_BLOCK_SIZE = 250000000;
 static const unsigned int MAX_BLOCK_SIZE_GEN = MAX_BLOCK_SIZE/2;
@@ -36,7 +36,7 @@ static const unsigned int MAX_ORPHAN_TRANSACTIONS = MAX_BLOCK_SIZE/100;
 static const unsigned int MAX_INV_SZ = 50000;
 static const int64_t MIN_TX_FEE = 1000;
 static const int64_t MIN_RELAY_TX_FEE = MIN_TX_FEE;
-static const int64_t MAX_MONEY = 18000000 * COIN; //Maximum coin supply:  18.000.000
+static const int64_t MAX_MONEY = 21000000 * COIN; //Maximum coin supply:  21.000.000
 static const int64_t COIN_YEAR_REWARD = 18 * CENT; // 18% per year
 static const int64_t MAX_MINT_PROOF_OF_STAKE = 0.18 * COIN;	// 18% annual interest
 static const int64_t MAX_MINT_PROOF_OF_STAKE_V2 = 0.18 * COIN;	// 18% annual interest change at block 300000
@@ -53,12 +53,12 @@ static const int fHaveUPnP = true;
 static const int fHaveUPnP = false;
 #endif
 
-static const uint256 hashGenesisBlock("0x00000b59ad8b90a84d036d44dec9609544fbc8aafa254706c748450f7bd71543");
+static const uint256 hashGenesisBlock("0x000099de72fcab8894f06175f442a378c7f506b5a9524353525d481e3aa07423");
 static const uint256 hashGenesisBlockTestNet("");
 // inline int64_t PastDrift(int64_t nTime)   { return nTime - 10 * 60; } // up to 10 minutes from the past
 // inline int64_t FutureDrift(int64_t nTime) { return nTime + 10 * 60; } // up to 10 minutes from the future
-inline int64_t PastDrift(int64_t nTime)   { return nTime - 1 * 60 * 60; } // up to 1 hour from the past
-inline int64_t FutureDrift(int64_t nTime) { return nTime + 1 * 60 * 60; } // up to 1 hour from the future
+inline int64_t PastDrift(int64_t nTime)   { return nTime - 10 * 60 * 60; } // up to 10 hour from the past
+inline int64_t FutureDrift(int64_t nTime) { return nTime + 10 * 60 * 60; } // up to 10 hour from the future
 
 
 extern libzerocoin::Params* ZCParams;
@@ -644,7 +644,7 @@ public:
     {
         std::string str;
         str += IsCoinBase()? "Coinbase" : (IsCoinStake()? "Coinstake" : "CTransaction");
-        str += strprintf("(hash=%s, nTime=%d, ver=%d, vin.size=%"PRIszu", vout.size=%"PRIszu", nLockTime=%d)\n",
+        str += strprintf("(hash=%s, nTime=%d, ver=%d, vin.size=%"  PRIszu  ", vout.size=%"  PRIszu  ", nLockTime=%d)\n",
             GetHash().ToString().substr(0,10).c_str(),
             nTime,
             nVersion,
@@ -1062,7 +1062,7 @@ public:
 
     void print() const
     {
-        printf("CBlock(hash=%s, ver=%d, hashPrevBlock=%s, hashMerkleRoot=%s, nTime=%u, nBits=%08x, nNonce=%u, vtx=%"PRIszu", vchBlockSig=%s)\n",
+        printf("CBlock(hash=%s, ver=%d, hashPrevBlock=%s, hashMerkleRoot=%s, nTime=%u, nBits=%08x, nNonce=%u, vtx=%"  PRIszu  ", vchBlockSig=%s)\n",
             GetHash().ToString().c_str(),
             nVersion,
             hashPrevBlock.ToString().c_str(),
@@ -1323,7 +1323,7 @@ public:
 
     std::string ToString() const
     {
-        return strprintf("CBlockIndex(nprev=%p, pnext=%p, nFile=%u, nBlockPos=%-6d nHeight=%d, nMint=%s, nMoneySupply=%s, nFlags=(%s)(%d)(%s), nStakeModifier=%016"PRIx64", nStakeModifierChecksum=%08x, hashProofOfStake=%s, prevoutStake=(%s), nStakeTime=%d merkle=%s, hashBlock=%s)",
+        return strprintf("CBlockIndex(nprev=%p, pnext=%p, nFile=%u, nBlockPos=%-6d nHeight=%d, nMint=%s, nMoneySupply=%s, nFlags=(%s)(%d)(%s), nStakeModifier=%016"  PRIx64  ", nStakeModifierChecksum=%08x, hashProofOfStake=%s, prevoutStake=(%s), nStakeTime=%d merkle=%s, hashBlock=%s)",
             pprev, pnext, nFile, nBlockPos, nHeight,
             FormatMoney(nMint).c_str(), FormatMoney(nMoneySupply).c_str(),
             GeneratedStakeModifier() ? "MOD" : "-", GetStakeEntropyBit(), IsProofOfStake()? "PoS" : "PoW",

@@ -1,9 +1,9 @@
-Building bankcoin
+Building bank
 
-See doc/readme-qt.rst for instructions on building bankcoin QT,
+See doc/readme-qt.rst for instructions on building bank QT,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of bankcoin.
+implementation of bank.
 
-See doc/build-*.txt for instructions on building bankcoind,
+See doc/build-*.txt for instructions on building bankd,
 the intended-for-services, no-graphical-interface, reference
-implementation of bankcoin.
+implementation of bank.

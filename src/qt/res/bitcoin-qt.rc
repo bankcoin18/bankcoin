@@ -1,4 +1,4 @@
-IDI_ICON1 ICON DISCARDABLE "icons/bankcoin.ico"
+IDI_ICON1 ICON DISCARDABLE "icons/bank.ico"
 
 #include <windows.h>             // needed for VERSIONINFO
 #include "../../clientversion.h" // holds the needed client version information
@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "bankcoin"
-            VALUE "FileDescription",    "bankcoin-Qt (OSS GUI client for bankcoin)"
+            VALUE "CompanyName",        "bank"
+            VALUE "FileDescription",    "bank-Qt (OSS GUI client for bank)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "bankcoin-qt"
-            VALUE "LegalCopyright",     "2009-2012 The Bitcoin developers, 2012-2013 The bankcoin & PPCoin developers"
+            VALUE "InternalName",       "bank-qt"
+            VALUE "LegalCopyright",     "2009-2012 The Bitcoin developers, 2012-2013 The bank & PPCoin developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "bankcoin-qt.exe"
-            VALUE "ProductName",        "bankcoin-Qt"
+            VALUE "OriginalFilename",   "bank-qt.exe"
+            VALUE "ProductName",        "bank-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

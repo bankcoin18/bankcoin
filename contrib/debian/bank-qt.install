@@ -1,0 +1,5 @@
+bank-qt usr/bin
+share/pixmaps/bank32.xpm usr/share/pixmaps
+share/pixmaps/bank80.xpm usr/share/pixmaps
+debian/bank-qt.desktop usr/share/applications
+debian/bank-qt.protocol usr/share/kde4/services/

@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About bankcoin</source>
-        <translation>О bankcoin</translation>
+        <source>About bank</source>
+        <translation>О bank</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;bankcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;bankcoin&lt;/b&gt; версия</translation>
+        <source>&lt;b&gt;bank&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;bank&lt;/b&gt; версия</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 - 2016 The bankcoin developers</source>
+Copyright © 2012-2014 The bank developers
+Copyright © 2014 - 2016 The bank developers</source>
         <translation>Все права защищены © 2009-2014 Разработчики Bitcoin
-Все права защищены © 2012-2014 Разработчики NovaCoin
-Все права защищены © 2014 Разработчики bankcoin</translation>
+Все права защищены © 2012-2014 Разработчики bank
+Все права защищены © 2014 Разработчики bank</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,7 +65,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your bankcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your bank addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Это Ваши адреса для получения платежей. Вы можете дать разные адреса отправителям, чтобы отслеживать, кто именно вам платит.</translation>
     </message>
     <message>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a bankcoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом bankcoin</translation>
+        <source>Sign a message to prove you own a bank address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом bank</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified bankcoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом bankcoin</translation>
+        <source>Verify a message to ensure it was signed with a specified bank address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом bank</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,7 +263,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>bankcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>bank will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего бумажника не может полностью защитить ваши монеты от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
     </message>
     <message>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about bankcoin</source>
-        <translation>Показать информацию о bankcoin&apos;е</translation>
+        <source>Show information about bank</source>
+        <translation>Показать информацию о bank&apos;е</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a bankcoin address</source>
-        <translation>Отправить монеты на указанный адрес bankcoin</translation>
+        <source>Send coins to a bank address</source>
+        <translation>Отправить монеты на указанный адрес bank</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for bankcoin</source>
-        <translation>Изменить параметры конфигурации bankcoin</translation>
+        <source>Modify configuration options for bank</source>
+        <translation>Изменить параметры конфигурации bank</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-202"/>
-        <source>bankcoin</source>
-        <translation>bankcoin</translation>
+        <source>bank</source>
+        <translation>bank</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About bankcoin</source>
-        <translation>&amp;О bankcoin</translation>
+        <source>&amp;About bank</source>
+        <translation>&amp;О bank</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,12 +539,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>bankcoin client</source>
-        <translation>bankcoin клиент</translation>
+        <source>bank client</source>
+        <translation>bank клиент</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to bankcoin network</source>
+        <source>%n active connection(s) to bank network</source>
         <translation><numerusform>%n активное соединение с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform></translation>
     </message>
     <message>
@@ -584,12 +584,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-312"/>
-        <source>About bankcoin card</source>
-        <translation>О карте bankcoin</translation>
+        <source>About bank card</source>
+        <translation>О карте bank</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about bankcoin card</source>
+        <source>Show information about bank card</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -669,8 +669,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid bankcoin address or malformed URI parameters.</source>
-        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом bankcoin или неправильными параметрами URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid bank address or malformed URI parameters.</source>
+        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом bank или неправильными параметрами URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,8 +729,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. bankcoin can no longer continue safely and will quit.</source>
-        <translation>Произошла неисправимая ошибка. bankcoin не может безопасно продолжать работу и будет закрыт.</translation>
+        <source>A fatal error occurred. bank can no longer continue safely and will quit.</source>
+        <translation>Произошла неисправимая ошибка. bank не может безопасно продолжать работу и будет закрыт.</translation>
     </message>
 </context>
 <context>
@@ -1049,8 +1049,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid bankcoin address.</source>
-        <translation>Введённый адрес &quot;%1&quot; не является правильным bankcoin-адресом.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid bank address.</source>
+        <translation>Введённый адрес &quot;%1&quot; не является правильным bank-адресом.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1068,8 +1068,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>bankcoin-Qt</source>
-        <translation>bankcoin-Qt</translation>
+        <source>bank-Qt</source>
+        <translation>bank-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1141,13 +1141,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start bankcoin after logging in to the system.</source>
-        <translation>Автоматически запускать bankcoin после входа в систему</translation>
+        <source>Automatically start bank after logging in to the system.</source>
+        <translation>Автоматически запускать bank после входа в систему</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start bankcoin on system login</source>
-        <translation>&amp;Запускать bankcoin при входе в систему</translation>
+        <source>&amp;Start bank on system login</source>
+        <translation>&amp;Запускать bank при входе в систему</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1166,8 +1166,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the bankcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть порт для bankcoin-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
+        <source>Automatically open the bank client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть порт для bank-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1176,8 +1176,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the bankcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Подключаться к сети bankcoin через прокси SOCKS (например, при подключении через Tor).</translation>
+        <source>Connect to the bank network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Подключаться к сети bank через прокси SOCKS (например, при подключении через Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1251,8 +1251,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting bankcoin.</source>
-        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска bankcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting bank.</source>
+        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска bank.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1266,8 +1266,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show bankcoin addresses in the transaction list or not.</source>
-        <translation>Показывать ли адреса bankcoin в списке транзакций.</translation>
+        <source>Whether to show bank addresses in the transaction list or not.</source>
+        <translation>Показывать ли адреса bank в списке транзакций.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1313,8 +1313,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting bankcoin.</source>
-        <translation>Эта настройка вступит в силу после перезапуска bankcoin</translation>
+        <source>This setting will take effect after restarting bank.</source>
+        <translation>Эта настройка вступит в силу после перезапуска bank</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1332,8 +1332,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the bankcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью bankcoin после подключения, но этот процесс пока не завершён.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the bank network after a connection is established, but this process has not completed yet.</source>
+        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью bank после подключения, но этот процесс пока не завершён.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1548,8 +1548,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the bankcoin-Qt help message to get a list with possible bankcoin command-line options.</source>
-        <translation>Показать помощь по bankcoin-Qt, чтобы получить список доступных параметров командной строки.</translation>
+        <source>Show the bank-Qt help message to get a list with possible bank command-line options.</source>
+        <translation>Показать помощь по bank-Qt, чтобы получить список доступных параметров командной строки.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1568,13 +1568,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>bankcoin - Debug window</source>
-        <translation>bankcoin - Окно отладки</translation>
+        <source>bank - Debug window</source>
+        <translation>bank - Окно отладки</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>bankcoin Core</source>
-        <translation>Ядро bankcoin</translation>
+        <source>bank Core</source>
+        <translation>Ядро bank</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1583,8 +1583,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the bankcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Открыть отладочный лог-файл bankcoin из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
+        <source>Open the bank debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Открыть отладочный лог-файл bank из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1593,8 +1593,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the bankcoin RPC console.</source>
-        <translation>Добро пожаловать в RPC-консоль bankcoin.</translation>
+        <source>Welcome to the bank RPC console.</source>
+        <translation>Добро пожаловать в RPC-консоль bank.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1752,8 +1752,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a bankcoin address (e.g. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Введите bankcoin-адрес (например bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a bank address (e.g. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Введите bank-адрес (например bankfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1852,7 +1852,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid bankcoin address</source>
+        <source>WARNING: Invalid bank address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1896,8 +1896,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Адрес получателя платежа (например bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Адрес получателя платежа (например bankfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1926,8 +1926,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a bankcoin address (e.g. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Введите bankcoin-адрес (например bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a bank address (e.g. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Введите bank-адрес (например bankfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1950,8 +1950,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Адрес, которым вы хотите подписать сообщение  (напр. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Адрес, которым вы хотите подписать сообщение  (напр. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1987,8 +1987,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this bankcoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом bankcoin</translation>
+        <source>Sign the message to prove you own this bank address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом bank</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2014,13 +2014,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Адрес, которым было подписано сообщение (напр. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Адрес, которым было подписано сообщение (напр. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified bankcoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом bankcoin</translation>
+        <source>Verify the message to ensure it was signed with the specified bank address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом bank</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2030,8 +2030,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a bankcoin address (e.g. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Введите адрес bankcoin (напр. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a bank address (e.g. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Введите адрес bank (напр. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2040,8 +2040,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter bankcoin signature</source>
-        <translation>Введите подпись bankcoin</translation>
+        <source>Enter bank signature</source>
+        <translation>Введите подпись bank</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2611,7 +2611,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>bankcoin version</source>
+        <source>bank version</source>
         <translation>Версия</translation>
     </message>
     <message>
@@ -2621,8 +2621,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or bankcoind</source>
-        <translation>Отправить команду на -server или bankcoind</translation>
+        <source>Send command to -server or bankd</source>
+        <translation>Отправить команду на -server или bankd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2642,13 +2642,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: bankcoin.conf)</source>
-        <translation>Указать конфигурационный файл (по умолчанию: bankcoin.conf)</translation>
+        <source>Specify configuration file (default: bank.conf)</source>
+        <translation>Указать конфигурационный файл (по умолчанию: bank.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: bankcoind.pid)</source>
-        <translation>Указать pid-файл (по умолчанию: bankcoind.pid)</translation>
+        <source>Specify pid file (default: bankd.pid)</source>
+        <translation>Указать pid-файл (по умолчанию: bankd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2797,8 +2797,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong bankcoin will not work properly.</source>
-        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, bankcoin будет работать некорректно.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong bank will not work properly.</source>
+        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, bank будет работать некорректно.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2987,13 +2987,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=bankcoinrpc
+rpcuser=bankrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;bankcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;bank Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3119,13 +3119,13 @@ for example: alertnotify=echo %%s | mail -s &quot;bankcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  bankcoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  bank is probably already running.</source>
         <translation>Невозможно установить блокировку на рабочую директорию %s.  Возможно, бумажник уже запущен.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>bankcoin</source>
-        <translation>bankcoin</translation>
+        <source>bank</source>
+        <translation>bank</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3159,13 +3159,13 @@ for example: alertnotify=echo %%s | mail -s &quot;bankcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of bankcoin</source>
-        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию bankcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of bank</source>
+        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию bank</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart bankcoin to complete</source>
-        <translation>Необходимо перезаписать бумажник, перезапустите bankcoin для завершения операции</translation>
+        <source>Wallet needed to be rewritten: restart bank to complete</source>
+        <translation>Необходимо перезаписать бумажник, перезапустите bank для завершения операции</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3234,8 +3234,8 @@ for example: alertnotify=echo %%s | mail -s &quot;bankcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. bankcoin is probably already running.</source>
-        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, bankcoin уже работает.</translation>
+        <source>Unable to bind to %s on this computer. bank is probably already running.</source>
+        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, bank уже работает.</translation>
     </message>
     <message>
         <location line="-97"/>

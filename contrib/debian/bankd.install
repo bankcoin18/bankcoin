@@ -1,0 +1,2 @@
+debian/bin/bankd usr/bin
+src/bankd usr/lib/bank

@@ -277,7 +277,10 @@ CDB::CDB(const char *pszFile, const char* pszMode) :
                 pdb = NULL;
                 --bitdb.mapFileUseCount[strFile];
                 strFile = "";
-                throw runtime_error(strprintf("CDB() : can't open database file %s, error %d", pszFile, ret));
+                string strMessage = _("Warning: App will be created database file and exits. You must be open app again. !! ");
+                // throw runtime_error(strprintf("CDB() : can't open database file %s, error %d", pszFile, ret));
+                uiInterface.ThreadSafeMessageBox(strMessage, "BANK", CClientUIInterface::OK | CClientUIInterface::ICON_INFORMATION | CClientUIInterface::MODAL);
+                exit(1);
             }
 
             if (fCreate && !Exists(string("version")))
@@ -478,7 +481,7 @@ void CDBEnv::Flush(bool fShutdown)
             else
                 mi++;
         }
-        printf("DBFlush(%s)%s ended %15"PRId64"ms\n", fShutdown ? "true" : "false", fDbEnvInit ? "" : " db not started", GetTimeMillis() - nStart);
+        printf("DBFlush(%s)%s ended %15" PRId64 "ms\n", fShutdown ? "true" : "false", fDbEnvInit ? "" : " db not started", GetTimeMillis() - nStart);
         if (fShutdown)
         {
             char** listp;

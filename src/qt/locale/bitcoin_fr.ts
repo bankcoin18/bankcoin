@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About bankcoin</source>
-        <translation>Au sujet de bankcoin</translation>
+        <source>About bank</source>
+        <translation>Au sujet de bank</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;bankcoin&lt;/b&gt; version</source>
-        <translation>Version de &lt;b&gt;bankcoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;bank&lt;/b&gt; version</source>
+        <translation>Version de &lt;b&gt;bank&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 - 2016 The bankcoin developers</source>
+Copyright © 2012-2014 The bank developers
+Copyright © 2014 - 2016 The bank developers</source>
         <translation>Copyright © 2009-2014 Les développeurs Bitcoin
-Copyright © 2012-2014 Les développeurs NovaCoin
-Copyright © 2014 Les développeurs bankcoin</translation>
+Copyright © 2012-2014 Les développeurs bank
+Copyright © 2014 Les développeurs bank</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,7 +65,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your bankcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your bank addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Ce sont vos adresses pour recevoir vos paiements. Vous pouvez utiliser une adresse différente pour chaque réception afin d&apos;identifier facilement le payeur.</translation>
     </message>
     <message>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a bankcoin address</source>
-        <translation>Signer un message afin de valider l&apos;identité de votre adresse bankcoin</translation>
+        <source>Sign a message to prove you own a bank address</source>
+        <translation>Signer un message afin de valider l&apos;identité de votre adresse bank</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified bankcoin address</source>
-        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse bankcoin spécifique.</translation>
+        <source>Verify a message to ensure it was signed with a specified bank address</source>
+        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse bank spécifique.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -237,7 +237,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>Avertissement : Si vous chiffrez votre portefeuille et perdez votre passphrase, vous ne pourrez &lt;b&gt;plus accéder à vos bankcoins&lt;/b&gt;!</translation>
+        <translation>Avertissement : Si vous chiffrez votre portefeuille et perdez votre passphrase, vous ne pourrez &lt;b&gt;plus accéder à vos banks&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -263,8 +263,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>bankcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>L&apos;application bankcoin va désormais se terminer afin de finaliser le processus de chiffrage. Merci de noter que le chiffrage du portefeuille ne garantit pas de se prémunir du vol via utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
+        <source>bank will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>L&apos;application bank va désormais se terminer afin de finaliser le processus de chiffrage. Merci de noter que le chiffrage du portefeuille ne garantit pas de se prémunir du vol via utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about bankcoin</source>
-        <translation>Afficher des informations au sujet de bankcoin</translation>
+        <source>Show information about bank</source>
+        <translation>Afficher des informations au sujet de bank</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a bankcoin address</source>
-        <translation>Envoyer des monnaies vers une adresse bankcoin</translation>
+        <source>Send coins to a bank address</source>
+        <translation>Envoyer des monnaies vers une adresse bank</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for bankcoin</source>
-        <translation>Modification des options de configuration de bankcoin</translation>
+        <source>Modify configuration options for bank</source>
+        <translation>Modification des options de configuration de bank</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-202"/>
-        <source>bankcoin</source>
-        <translation>bankcoin</translation>
+        <source>bank</source>
+        <translation>bank</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About bankcoin</source>
-        <translation>&amp;Au sujet de bankcoin</translation>
+        <source>&amp;About bank</source>
+        <translation>&amp;Au sujet de bank</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>bankcoin client</source>
-        <translation>Client bankcoin</translation>
+        <source>bank client</source>
+        <translation>Client bank</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to bankcoin network</source>
-        <translation><numerusform>%n connexion active au réseau bankcoin</numerusform><numerusform>%n connexions actives au réseau bankcoin</numerusform></translation>
+        <source>%n active connection(s) to bank network</source>
+        <translation><numerusform>%n connexion active au réseau bank</numerusform><numerusform>%n connexions actives au réseau bank</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-312"/>
-        <source>About bankcoin card</source>
-        <translation>Au sujet de la carte bankcoin</translation>
+        <source>About bank card</source>
+        <translation>Au sujet de la carte bank</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about bankcoin card</source>
-        <translation>Informations sur la carte bankcoin</translation>
+        <source>Show information about bank card</source>
+        <translation>Informations sur la carte bank</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -669,8 +669,8 @@ Adresse : %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid bankcoin address or malformed URI parameters.</source>
-        <translation>L&apos;adresse du portefeuille bankcoin n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid bank address or malformed URI parameters.</source>
+        <translation>L&apos;adresse du portefeuille bank n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,8 +729,8 @@ Adresse : %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. bankcoin can no longer continue safely and will quit.</source>
-        <translation>Une erreur fatale a été rencontrée. L&apos;application bankcoin ne peut plus être s&apos;exécuter de façon correcte et doit se terminer.</translation>
+        <source>A fatal error occurred. bank can no longer continue safely and will quit.</source>
+        <translation>Une erreur fatale a été rencontrée. L&apos;application bank ne peut plus être s&apos;exécuter de façon correcte et doit se terminer.</translation>
     </message>
 </context>
 <context>
@@ -1063,8 +1063,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid bankcoin address.</source>
-        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse bankcoin valide.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid bank address.</source>
+        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse bank valide.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1082,8 +1082,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>bankcoin-Qt</source>
-        <translation>bankcoin-Qt</translation>
+        <source>bank-Qt</source>
+        <translation>bank-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1155,13 +1155,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start bankcoin after logging in to the system.</source>
-        <translation>Démarrage automatique du client bankcoin lors de la connexion au système</translation>
+        <source>Automatically start bank after logging in to the system.</source>
+        <translation>Démarrage automatique du client bank lors de la connexion au système</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start bankcoin on system login</source>
-        <translation>&amp;Démarrage du client bankcoin à la connexion au système</translation>
+        <source>&amp;Start bank on system login</source>
+        <translation>&amp;Démarrage du client bank à la connexion au système</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1180,8 +1180,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the bankcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouverture automatique du port client de bankcoin sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
+        <source>Automatically open the bank client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouverture automatique du port client de bank sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,8 +1190,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the bankcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connexion au réseau bankcoin à travers un proxy SOCKS (e.g. Connexion via le réseau Tor).</translation>
+        <source>Connect to the bank network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connexion au réseau bank à travers un proxy SOCKS (e.g. Connexion via le réseau Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1265,8 +1265,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting bankcoin.</source>
-        <translation>La langue d&apos;interface de l&apos;utilisateur peut être définie ici. Les modification seront prises en compte après redémarrage de l&apos;application bankcoin</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting bank.</source>
+        <translation>La langue d&apos;interface de l&apos;utilisateur peut être définie ici. Les modification seront prises en compte après redémarrage de l&apos;application bank</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1280,8 +1280,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show bankcoin addresses in the transaction list or not.</source>
-        <translation>Afficher les adresses bankcoin au sein de la liste de transactions</translation>
+        <source>Whether to show bank addresses in the transaction list or not.</source>
+        <translation>Afficher les adresses bank au sein de la liste de transactions</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1327,8 +1327,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting bankcoin.</source>
-        <translation>Les paramètres prendront effet après redémarrage du client bankcoin</translation>
+        <source>This setting will take effect after restarting bank.</source>
+        <translation>Les paramètres prendront effet après redémarrage du client bank</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1346,8 +1346,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the bankcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau bankcoin mais ce processus n&apos;est pas encore terminé.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the bank network after a connection is established, but this process has not completed yet.</source>
+        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau bank mais ce processus n&apos;est pas encore terminé.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1562,8 +1562,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the bankcoin-Qt help message to get a list with possible bankcoin command-line options.</source>
-        <translation>Afficher le message d&apos;aide bankcoin-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande bankcoin</translation>
+        <source>Show the bank-Qt help message to get a list with possible bank command-line options.</source>
+        <translation>Afficher le message d&apos;aide bank-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande bank</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1582,13 +1582,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="-104"/>
-        <source>bankcoin - Debug window</source>
-        <translation>bankcoin - Fenêtre de déboggage</translation>
+        <source>bank - Debug window</source>
+        <translation>bank - Fenêtre de déboggage</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>bankcoin Core</source>
-        <translation>bankcoin Core</translation>
+        <source>bank Core</source>
+        <translation>bank Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1597,8 +1597,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the bankcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ouvrir le fichier journal de debug bankcoin au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
+        <source>Open the bank debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ouvrir le fichier journal de debug bank au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1607,8 +1607,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the bankcoin RPC console.</source>
-        <translation>Bienvenue sur la console RPC de bankcoin.</translation>
+        <source>Welcome to the bank RPC console.</source>
+        <translation>Bienvenue sur la console RPC de bank.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1766,8 +1766,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a bankcoin address (e.g. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Entrer une adresse bankcoin (par ex: bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a bank address (e.g. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Entrer une adresse bank (par ex: bankfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1866,8 +1866,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid bankcoin address</source>
-        <translation>AVERTISSEMENT: Adresse bankcoin Invalide</translation>
+        <source>WARNING: Invalid bank address</source>
+        <translation>AVERTISSEMENT: Adresse bank Invalide</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1877,7 +1877,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation>AVERTISSEMENT: Adresse bankcoin Invalide</translation>
+        <translation>AVERTISSEMENT: Adresse bank Invalide</translation>
     </message>
 </context>
 <context>
@@ -1910,8 +1910,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresse destinataire du paiement (ex: bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresse destinataire du paiement (ex: bankfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1940,8 +1940,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a bankcoin address (e.g. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Entrer une adresse bankcoin (ex: bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a bank address (e.g. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Entrer une adresse bank (ex: bankfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1964,8 +1964,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Entrer une adresse bankcoin (ex: bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Entrer une adresse bank (ex: bankfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2001,8 +2001,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this bankcoin address</source>
-        <translation>Signer le message afin de prouver l&apos;identité de votre adresse bankcoin</translation>
+        <source>Sign the message to prove you own this bank address</source>
+        <translation>Signer le message afin de prouver l&apos;identité de votre adresse bank</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2028,13 +2028,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>L&apos;adresse avec laquelle le message à été signé (ex: bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>L&apos;adresse avec laquelle le message à été signé (ex: bankfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified bankcoin address</source>
-        <translation>Vérifier le message afin de vous assurer qu&apos;il provient de l&apos;adresse bankcoin spécifiée.</translation>
+        <source>Verify the message to ensure it was signed with the specified bank address</source>
+        <translation>Vérifier le message afin de vous assurer qu&apos;il provient de l&apos;adresse bank spécifiée.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2044,8 +2044,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a bankcoin address (e.g. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Entrer une adresse bankcoin (e.g. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a bank address (e.g. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Entrer une adresse bank (e.g. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2054,8 +2054,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter bankcoin signature</source>
-        <translation>Entrer une signature bankcoin</translation>
+        <source>Enter bank signature</source>
+        <translation>Entrer une signature bank</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2625,8 +2625,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>bankcoin version</source>
-        <translation>Version bankcoin</translation>
+        <source>bank version</source>
+        <translation>Version bank</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2635,8 +2635,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or bankcoind</source>
-        <translation>Envoyer commande à -server ou bankcoind</translation>
+        <source>Send command to -server or bankd</source>
+        <translation>Envoyer commande à -server ou bankd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2655,13 +2655,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: bankcoin.conf)</source>
-        <translation>Spécifier le fichier de configuration (par défaut: bankcoin.conf)</translation>
+        <source>Specify configuration file (default: bank.conf)</source>
+        <translation>Spécifier le fichier de configuration (par défaut: bank.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: bankcoind.pid)</source>
-        <translation>Spécifier le fichier pid (par défaut: bankcoind.pid)</translation>
+        <source>Specify pid file (default: bankd.pid)</source>
+        <translation>Spécifier le fichier pid (par défaut: bankd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2810,8 +2810,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong bankcoin will not work properly.</source>
-        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. bankcoin ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong bank will not work properly.</source>
+        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. bank ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3000,24 +3000,24 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=bankcoinrpc
+rpcuser=bankrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;bankcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;bank Alert&quot; admin@foo.com
 </source>
         <translation>%s, vous devez définir un mot de passe rpc &apos;rpcpassword&apos; au sein du fichier de configuration:
  %s
 Il est recommandé d&apos;utiliser le mot de passe aléatoire suivant:
-rpcuser=bankcoinrpc
+rpcuser=bankrpc
 rpcpassword=%s
 (il n&apos;est pas nécessaire de retenir ce mot de passe)
 Le nom d&apos;utilisateur et le mot de passe doivent IMPERATIVEMENT être différents.
 Si le fichier n&apos;existe pas, il est nécessaire de le créer, avec les droit de lecture au propriétaire seulement.
 Il est également recommandé d&apos;utiliser l&apos;option alertnotify afin d&apos;être notifié des problèmes;
-par exemple: alertnotify=echo %%s | mail -s &quot;Alerte bankcoin&quot; admin@foo.com
+par exemple: alertnotify=echo %%s | mail -s &quot;Alerte bank&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3142,13 +3142,13 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte bankcoin&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  bankcoin is probably already running.</source>
-        <translation>Echec lors de la tentative de verrouillage des données du répertoire %s. L&apos;application bankcoin est probablement déjà en cours d&apos;exécution</translation>
+        <source>Cannot obtain a lock on data directory %s.  bank is probably already running.</source>
+        <translation>Echec lors de la tentative de verrouillage des données du répertoire %s. L&apos;application bank est probablement déjà en cours d&apos;exécution</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>bankcoin</source>
-        <translation>bankcoin</translation>
+        <source>bank</source>
+        <translation>bank</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3182,13 +3182,13 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte bankcoin&quot; admin@fo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of bankcoin</source>
-        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application bankcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of bank</source>
+        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application bank</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart bankcoin to complete</source>
-        <translation>Le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application bankcoin</translation>
+        <source>Wallet needed to be rewritten: restart bank to complete</source>
+        <translation>Le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application bank</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3257,8 +3257,8 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte bankcoin&quot; admin@fo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. bankcoin is probably already running.</source>
-        <translation>Connexion au port %s impossible. L&apos;application bankcoin est probablement déjà en cours d&apos;exécution</translation>
+        <source>Unable to bind to %s on this computer. bank is probably already running.</source>
+        <translation>Connexion au port %s impossible. L&apos;application bank est probablement déjà en cours d&apos;exécution</translation>
     </message>
     <message>
         <location line="-97"/>

@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About bankcoin</source>
-        <translation>Tietoa bankcoinista</translation>
+        <source>About bank</source>
+        <translation>Tietoa bankista</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;bankcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;bankcoin&lt;/b&gt; versio</translation>
+        <source>&lt;b&gt;bank&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;bank&lt;/b&gt; versio</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 - 2016 The bankcoin developers</source>
+Copyright © 2012-2014 The bank developers
+Copyright © 2014 - 2016 The bank developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -64,8 +64,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your bankcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Nämä ovat bankcoin-osoitteesi rahansiirtojen vastaanottoa varten. Jos haluat, voit antaa jokaiselle lähettäjälle oman osoitteen jotta voit pitää kirjaa sinulle rahaa siirtäneistä henkilöistä.</translation>
+        <source>These are your bank addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Nämä ovat bank-osoitteesi rahansiirtojen vastaanottoa varten. Jos haluat, voit antaa jokaiselle lähettäjälle oman osoitteen jotta voit pitää kirjaa sinulle rahaa siirtäneistä henkilöistä.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -79,8 +79,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a bankcoin address</source>
-        <translation>Allekirjoita viesti osoittaaksesi bankcoin-osoitteesi omistajuus</translation>
+        <source>Sign a message to prove you own a bank address</source>
+        <translation>Allekirjoita viesti osoittaaksesi bank-osoitteesi omistajuus</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -94,8 +94,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified bankcoin address</source>
-        <translation>Vahvista viesti varmistaaksesi että kyseinen bankcoin-osoitteesi on allekirjoittanut sen</translation>
+        <source>Verify a message to ensure it was signed with a specified bank address</source>
+        <translation>Vahvista viesti varmistaaksesi että kyseinen bank-osoitteesi on allekirjoittanut sen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -262,8 +262,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-58"/>
-        <source>bankcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>bankcoin-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haittaohjelmien aiheuttamien varkauksien uhalta.</translation>
+        <source>bank will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>bank-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haittaohjelmien aiheuttamien varkauksien uhalta.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -376,8 +376,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about bankcoin</source>
-        <translation>Näytä tietoja bankcoinista</translation>
+        <source>Show information about bank</source>
+        <translation>Näytä tietoja bankista</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -426,13 +426,13 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a bankcoin address</source>
-        <translation>Lähetä kolikkoja bankcoin osoitteeseen</translation>
+        <source>Send coins to a bank address</source>
+        <translation>Lähetä kolikkoja bank osoitteeseen</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for bankcoin</source>
-        <translation>Mukauta bankcoinin konfigurointiasetuksia</translation>
+        <source>Modify configuration options for bank</source>
+        <translation>Mukauta bankin konfigurointiasetuksia</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -471,8 +471,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-202"/>
-        <source>bankcoin</source>
-        <translation>bankcoin</translation>
+        <source>bank</source>
+        <translation>bank</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -481,8 +481,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About bankcoin</source>
-        <translation>&amp;Tietoa bankcoinista</translation>
+        <source>&amp;About bank</source>
+        <translation>&amp;Tietoa bankista</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -538,13 +538,13 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>bankcoin client</source>
-        <translation>bankcoin-asiakas</translation>
+        <source>bank client</source>
+        <translation>bank-asiakas</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to bankcoin network</source>
-        <translation><numerusform>%n aktiivinen yhteys bankcoin-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä bankcoin-verkkoon</numerusform></translation>
+        <source>%n active connection(s) to bank network</source>
+        <translation><numerusform>%n aktiivinen yhteys bank-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä bank-verkkoon</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -583,12 +583,12 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-312"/>
-        <source>About bankcoin card</source>
+        <source>About bank card</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about bankcoin card</source>
+        <source>Show information about bank card</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -667,8 +667,8 @@ Osoite: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid bankcoin address or malformed URI parameters.</source>
-        <translation>URI-merkkijonoa ei voida jäsentää! Tämä voi johtua väärästä bankcoin-osoitteesta tai väärässä muodossa olevista URI-parametreistä.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid bank address or malformed URI parameters.</source>
+        <translation>URI-merkkijonoa ei voida jäsentää! Tämä voi johtua väärästä bank-osoitteesta tai väärässä muodossa olevista URI-parametreistä.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -727,8 +727,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. bankcoin can no longer continue safely and will quit.</source>
-        <translation>Vakava virhe kohdattu. bankcoin-ohjelma ei voi enää jatkaa turvallisesti ja sulkee itsensä.</translation>
+        <source>A fatal error occurred. bank can no longer continue safely and will quit.</source>
+        <translation>Vakava virhe kohdattu. bank-ohjelma ei voi enää jatkaa turvallisesti ja sulkee itsensä.</translation>
     </message>
 </context>
 <context>
@@ -1061,8 +1061,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid bankcoin address.</source>
-        <translation>Syöttämäsi osoite &quot;%1&quot; ei ole hyväksytty bankcoin-osoite.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid bank address.</source>
+        <translation>Syöttämäsi osoite &quot;%1&quot; ei ole hyväksytty bank-osoite.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1080,8 +1080,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>bankcoin-Qt</source>
-        <translation>bankcoin-Qt</translation>
+        <source>bank-Qt</source>
+        <translation>bank-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1153,13 +1153,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start bankcoin after logging in to the system.</source>
-        <translation>Käynnistä bankcoin-asiakasohjelma automaattisesti kun olet kirjautunut järjestelmään.</translation>
+        <source>Automatically start bank after logging in to the system.</source>
+        <translation>Käynnistä bank-asiakasohjelma automaattisesti kun olet kirjautunut järjestelmään.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start bankcoin on system login</source>
-        <translation>%Käynnistä bankcoin-asiakasohjelma kirjautuessasi</translation>
+        <source>&amp;Start bank on system login</source>
+        <translation>%Käynnistä bank-asiakasohjelma kirjautuessasi</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1178,8 +1178,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the bankcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa bankcoin-asiakkaalle automaattisesti portti reitittimestä. Tämä toimii vain, kun reitittimesi tukee UPnP:tä ja se on aktivoituna.</translation>
+        <source>Automatically open the bank client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa bank-asiakkaalle automaattisesti portti reitittimestä. Tämä toimii vain, kun reitittimesi tukee UPnP:tä ja se on aktivoituna.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1188,8 +1188,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the bankcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Yhdistä bankcoin-verkkoon SOCKS-välityspalvelimen lävitse. (esim. yhdistettäessä Tor:n läpi).</translation>
+        <source>Connect to the bank network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Yhdistä bank-verkkoon SOCKS-välityspalvelimen lävitse. (esim. yhdistettäessä Tor:n läpi).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1263,8 +1263,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting bankcoin.</source>
-        <translation>Käyttöliittymän kieli voidaan valita tästä. Tämä asetus tulee voimaan vasta bankcoin-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting bank.</source>
+        <translation>Käyttöliittymän kieli voidaan valita tästä. Tämä asetus tulee voimaan vasta bank-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1278,8 +1278,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show bankcoin addresses in the transaction list or not.</source>
-        <translation>Näytä tai piilota bankcoin-osoitteet rahansiirtolistassa.</translation>
+        <source>Whether to show bank addresses in the transaction list or not.</source>
+        <translation>Näytä tai piilota bank-osoitteet rahansiirtolistassa.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1325,8 +1325,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting bankcoin.</source>
-        <translation>Tämä asetus tulee voimaan vasta bankcoin-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
+        <source>This setting will take effect after restarting bank.</source>
+        <translation>Tämä asetus tulee voimaan vasta bank-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1344,8 +1344,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the bankcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Näytettävät tiedot voivat olla vanhentuneet. Lompakkosi synkronoituu automaattisesti bankcoin-verkon kanssa kun yhteys on muodostettu, mutta tätä prosessia ei ole viety vielä päätökseen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the bank network after a connection is established, but this process has not completed yet.</source>
+        <translation>Näytettävät tiedot voivat olla vanhentuneet. Lompakkosi synkronoituu automaattisesti bank-verkon kanssa kun yhteys on muodostettu, mutta tätä prosessia ei ole viety vielä päätökseen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1560,8 +1560,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the bankcoin-Qt help message to get a list with possible bankcoin command-line options.</source>
-        <translation>Näytä bankcoin-Qt:n avustusohje saadaksesi listan käytettävistä bankcoinin komentokehotteen määritteistä.</translation>
+        <source>Show the bank-Qt help message to get a list with possible bank command-line options.</source>
+        <translation>Näytä bank-Qt:n avustusohje saadaksesi listan käytettävistä bankin komentokehotteen määritteistä.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1580,13 +1580,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>bankcoin - Debug window</source>
-        <translation>bankcoin - Debug-ikkuna</translation>
+        <source>bank - Debug window</source>
+        <translation>bank - Debug-ikkuna</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>bankcoin Core</source>
-        <translation>bankcoinin ydin</translation>
+        <source>bank Core</source>
+        <translation>bankin ydin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1595,8 +1595,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the bankcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Avaa bankcoin-asiakasohjelman debug-lokitiedosto nykyisestä hakemistostaan. Tämä voi kestää muutaman sekunnin avattaessa suuria lokitiedostoja.</translation>
+        <source>Open the bank debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Avaa bank-asiakasohjelman debug-lokitiedosto nykyisestä hakemistostaan. Tämä voi kestää muutaman sekunnin avattaessa suuria lokitiedostoja.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1605,8 +1605,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the bankcoin RPC console.</source>
-        <translation>Tervetuloa bankcoinin RPC-konsoliin.</translation>
+        <source>Welcome to the bank RPC console.</source>
+        <translation>Tervetuloa bankin RPC-konsoliin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1764,8 +1764,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a bankcoin address (e.g. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Syötä bankcoin-osoite (esim. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a bank address (e.g. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Syötä bank-osoite (esim. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1864,8 +1864,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid bankcoin address</source>
-        <translation>VAROITUS: Epäkelpo bankcoin-osoite</translation>
+        <source>WARNING: Invalid bank address</source>
+        <translation>VAROITUS: Epäkelpo bank-osoite</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1908,8 +1908,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Osoite, johon maksu lähetetään (esim. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Osoite, johon maksu lähetetään (esim. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1938,8 +1938,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a bankcoin address (e.g. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Syötä bankcoin-osoite (esim. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a bank address (e.g. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Syötä bank-osoite (esim. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1962,8 +1962,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Osoite, jolle viesti kirjataan (esim. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Osoite, jolle viesti kirjataan (esim. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1999,8 +1999,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this bankcoin address</source>
-        <translation>Allekirjoita viesti vahvistaaksesi, että omistat tämän bankcoin-osoitteen</translation>
+        <source>Sign the message to prove you own this bank address</source>
+        <translation>Allekirjoita viesti vahvistaaksesi, että omistat tämän bank-osoitteen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2026,13 +2026,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Osoite, jolla viesti on allekirjoitettu (esim. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2) </translation>
+        <source>The address the message was signed with (e.g. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Osoite, jolla viesti on allekirjoitettu (esim. bankfwYhBmGXcFP2Po1NpRUEiK8km2) </translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified bankcoin address</source>
-        <translation>Vahvista viesti varmistaaksesi että se on allekirjoitettu kyseisellä bankcoin-osoitteella</translation>
+        <source>Verify the message to ensure it was signed with the specified bank address</source>
+        <translation>Vahvista viesti varmistaaksesi että se on allekirjoitettu kyseisellä bank-osoitteella</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2042,8 +2042,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a bankcoin address (e.g. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Syötä bankcoin-osoite (esim. bankcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a bank address (e.g. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Syötä bank-osoite (esim. bankfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2052,8 +2052,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter bankcoin signature</source>
-        <translation>Syötä bankcoin-allekirjoitus</translation>
+        <source>Enter bank signature</source>
+        <translation>Syötä bank-allekirjoitus</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2623,8 +2623,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>bankcoin version</source>
-        <translation>bankcoinin versio</translation>
+        <source>bank version</source>
+        <translation>bankin versio</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2633,8 +2633,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or bankcoind</source>
-        <translation>Syötä komento kohteeseen -server tai bankcoind</translation>
+        <source>Send command to -server or bankd</source>
+        <translation>Syötä komento kohteeseen -server tai bankd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2653,13 +2653,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: bankcoin.conf)</source>
-        <translation>Määritä asetustiedosto (oletus: bankcoin.conf)</translation>
+        <source>Specify configuration file (default: bank.conf)</source>
+        <translation>Määritä asetustiedosto (oletus: bank.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: bankcoind.pid)</source>
-        <translation>Määritä prosessitiedosto (oletus: bankcoin.pid)</translation>
+        <source>Specify pid file (default: bankd.pid)</source>
+        <translation>Määritä prosessitiedosto (oletus: bank.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2808,8 +2808,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong bankcoin will not work properly.</source>
-        <translation>Varoitus: Tarkista, että tietokoneesi aika ja päivämäärä ovat oikeassa! Jos kellosi on väärässä, bankcoin ei toimi oikein.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong bank will not work properly.</source>
+        <translation>Varoitus: Tarkista, että tietokoneesi aika ja päivämäärä ovat oikeassa! Jos kellosi on väärässä, bank ei toimi oikein.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2998,23 +2998,23 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=bankcoinrpc
+rpcuser=bankrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;bankcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;bank Alert&quot; admin@foo.com
 </source>
         <translation>%s, sinun on asetettava rpcpassword asetustiedostoon:
 %s
 On suositeltavaa, että käytät seuraavaa arvottua salasanaa:
-rpcuser=bankcoinrpc
+rpcuser=bankrpc
 rpcpassword=%s
 (Sinun ei tarvitse muistaa tätä salasanaa)
 Käyttäjänimen ja salasanan EI TULE OLLA SAMOJA.
 Jos tiedostoa ei ole olemassa, luo se asettaen samalla omistajan lukuoikeudet.
-On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; esimerkiksi: alertnotify=echo %%s | mail -s &quot;bankcoin Alert&quot; admin@foo.com
+On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; esimerkiksi: alertnotify=echo %%s | mail -s &quot;bank Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3139,13 +3139,13 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  bankcoin is probably already running.</source>
-        <translation>Ei voida saavuttaa lukkoa datatiedostossa %s. bankcoin-asiakasohjelma on ehkä jo käynnissä.</translation>
+        <source>Cannot obtain a lock on data directory %s.  bank is probably already running.</source>
+        <translation>Ei voida saavuttaa lukkoa datatiedostossa %s. bank-asiakasohjelma on ehkä jo käynnissä.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>bankcoin</source>
-        <translation>bankcoin</translation>
+        <source>bank</source>
+        <translation>bank</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3179,13 +3179,13 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of bankcoin</source>
-        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko tarvitsee uudemman version bankcoin-asiakasohjelmasta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of bank</source>
+        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko tarvitsee uudemman version bank-asiakasohjelmasta</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart bankcoin to complete</source>
-        <translation>Lompakko on kirjoitettava uudelleen: käynnistä bankcoin-asiakasohjelma uudelleen päättääksesi toiminnon</translation>
+        <source>Wallet needed to be rewritten: restart bank to complete</source>
+        <translation>Lompakko on kirjoitettava uudelleen: käynnistä bank-asiakasohjelma uudelleen päättääksesi toiminnon</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3254,8 +3254,8 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. bankcoin is probably already running.</source>
-        <translation>Ei voitu liittää %s tällä tietokoneella. bankcoin-asiakasohjelma on jo ehkä päällä.</translation>
+        <source>Unable to bind to %s on this computer. bank is probably already running.</source>
+        <translation>Ei voitu liittää %s tällä tietokoneella. bank-asiakasohjelma on jo ehkä päällä.</translation>
     </message>
     <message>
         <location line="-97"/>

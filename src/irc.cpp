@@ -189,7 +189,7 @@ bool GetIPFromIRC(SOCKET hSocket, string strMyName, CNetAddr& ipRet)
 void ThreadIRCSeed(void* parg)
 {
     // Make this thread recognisable as the IRC seeding thread
-    RenameThread("bankcoin-ircseed");
+    RenameThread("bank-ircseed");
 
     try
     {
@@ -260,7 +260,7 @@ void ThreadIRCSeed2(void* parg)
         if (!fNoListen && GetLocal(addrLocal, &addrIPv4) && nNameRetry<3)
             strMyName = EncodeAddress(GetLocalAddress(&addrConnect));
         if (strMyName == "")
-            strMyName = strprintf("x%"PRIu64"", GetRand(1000000000));
+            strMyName = strprintf("x%" PRIu64 "", GetRand(1000000000));
 
         Send(hSocket, strprintf("NICK %s\r", strMyName.c_str()).c_str());
         Send(hSocket, strprintf("USER %s 8 * : %s\r", strMyName.c_str(), strMyName.c_str()).c_str());
@@ -302,16 +302,16 @@ void ThreadIRCSeed2(void* parg)
         }
 
         if (fTestNet) {
-            Send(hSocket, "JOIN #bankcoinTEST\r");
-            Send(hSocket, "WHO #bankcoinTEST\r");
+            Send(hSocket, "JOIN #bankTEST\r");
+            Send(hSocket, "WHO #bankTEST\r");
         } else {
-            // randomly join #bankcoin00-#bankcoin05
+            // randomly join #bank00-#bank05
             //int channel_number = GetRandInt(5);
             int channel_number = 0;
             // Channel number is always 0 for initial release
             //int channel_number = 0;
-            Send(hSocket, strprintf("JOIN #bankcoin%02d\r", channel_number).c_str());
-            Send(hSocket, strprintf("WHO #bankcoin%02d\r", channel_number).c_str());
+            Send(hSocket, strprintf("JOIN #bank%02d\r", channel_number).c_str());
+            Send(hSocket, strprintf("WHO #bank%02d\r", channel_number).c_str());
         }
 
         int64_t nStart = GetTime();

@@ -1,8 +1,8 @@
 #ifndef QTIPCSERVER_H
 #define QTIPCSERVER_H
 
-// Define bankcoin-Qt message queue name
-#define BITCOINURI_QUEUE_NAME "bankcoinURI"
+// Define bank-Qt message queue name
+#define BITCOINURI_QUEUE_NAME "bankURI"
 
 void ipcScanRelay(int argc, char *argv[]);
 void ipcInit(int argc, char *argv[]);
