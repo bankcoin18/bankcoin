@@ -1,5 +1,5 @@
-rpc port: 32880
-net port: 32886
+#rpc port: 32880
+#net port: 32886
 
 
-bankcoin.io
+#https://bankcoin.io
