@@ -40,9 +40,9 @@ CBigNum bnProofOfWorkLimit(~uint256(0) >> 16); // "standard" scrypt target limit
 CBigNum bnProofOfStakeLimit(~uint256(0) >> 16);
 CBigNum bnProofOfWorkLimitTestNet(~uint256(0) >> 16);
 
-unsigned int nStakeMinAge = 30 * 24 * 60 * 60; // 30 days as zero time weight
-unsigned int nStakeMaxAge = 90 * 24 * 60 * 60; // 90 days as full weight
-int64_t nTargetSpacing = 5 * 60;  // Time between reward:    120 Second
+unsigned int nStakeMinAge = 12 * 60 * 60; // 30 days as zero time weight
+unsigned int nStakeMaxAge = 36 * 60 * 60; // 90 days as full weight
+int64_t nTargetSpacing = 5 * 60;  // Time between reward:    300 Second
 unsigned int nModifierInterval = 1 * 60; // time to elapse before new modifier is computed
 
 int nCoinbaseMaturity = 600;
